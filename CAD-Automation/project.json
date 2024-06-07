@@ -1,0 +1,236 @@
+{
+  "name": "F2Screen",
+  "projectId": "4d6f059b-c553-4454-bbe5-ba3ba325a616",
+  "description": "CAD F2 Screen scenario",
+  "main": "Main.xaml",
+  "dependencies": {
+    "ColorDetectorActivities": "[1.1.3]",
+    "Reply.GetCSSPropertyInfo.Activities": "[2.0.0]",
+    "UiPath.Activities.RuntimeGovernance": "[1.1.6]",
+    "UiPath.ComplexScenarios.Activities": "[1.5.0]",
+    "UiPath.Excel.Activities": "[2.23.3-preview]",
+    "UiPath.Java.Activities": "[1.3.1]",
+    "UiPath.Mail.Activities": "[1.22.2]",
+    "UiPath.OCR.Activities": "[3.20.0-preview]",
+    "UiPath.OCR.Contracts": "[2.16.0]",
+    "UiPath.PDF.Activities": "[3.19.0]",
+    "UiPath.Presentations.Activities": "[1.13.0-preview]",
+    "UiPath.System.Activities": "[24.3.1]",
+    "UiPath.Terminal.Activities": "[2.7.2]",
+    "UiPath.Testing.Activities": "[24.4.0-preview]",
+    "UiPath.UIAutomation.Activities": "[24.4.2-preview]",
+    "UiPath.UIAutomation.Activities.Runtime.Design": "[24.4.2-preview]",
+    "UiPath.Vision": "[3.13.0-preview]",
+    "UiPath.WebAPI.Activities": "[1.20.1]",
+    "UiPath.Word.Activities": "[1.19.2-preview]",
+    "UiPathTeam.GoogleMaps.Activities": "[0.1.7192.29405]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.1.0",
+  "projectVersion": "1.0.170603872",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "23ab6431-b514-4e80-81af-59b567435415",
+        "testCaseType": "TestCase",
+        "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f393113d-f09a-4799-a1e2-1be6c9f2c70f",
+        "dataVariationFilePath": ".variations\\LoadTestData_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "Automation Load Test\\TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3c4f634c-7567-4a53-9fca-93e2cafb7472",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Quick Test\\TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "6668392e-6d79-47b1-8b6c-15ba929ee00f",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase2.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5196ada6-ebf8-4be7-a047-ea123504a71f",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\Test_Case_18786_To_verify_call_taking_functionality_with_including_name_plate_from_F2_screen_for_Police_call.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "fd5ba360-2db3-420a-9bbe-7772a145162e",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCase_18791_ToverifyaddanexistingnameinF2screenwhilecalltakingATypeName.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "bb691738-5604-45b8-93cb-889489e61594",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCase_18811_To verify the traffic stop call taking functionality from CAD.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "64b50173-a21e-4623-bca4-5c4e2c23bff0",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCase_18823_To verify the OI call taking functionality from CAD.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b6935552-9441-4689-8a03-f822c53d34cf",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18777_ToVerifyCADLogin.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "77158f78-d386-4537-84c8-758a82ddf0dd",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18778_To verify call taking functionality with location CFS from F2 screen for Police call.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "653e583c-b0fb-42e3-b6e2-2284945304df",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18779_To_verify_call_taking_functionality_with_location_or_CFS_from_F2_screen_for_Fire_Call.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5dd0331b-7f63-4e50-be38-f5ac920948ae",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18794_ToverifyaddanexistingnameinF2screenwhilecalltakingforJtypename.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8a98f60c-09e6-4e1b-b4df-d53bb348179f",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18796_ToverifyaddanexistingnameinF2screenwhilecalltakingforBtypename.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "59b5e730-a2b9-40de-9592-014129469501",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18797_ToverifyaddanexistingnameinF2screenwhilecalltakingforOtypename.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "05b2e41e-e464-49b3-bb70-c8b39d285f39",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18798_To verify add new name functions from F2 screen for A Type name.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "68dc0d0b-e842-4f25-92eb-515764eb5dc8",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18799_ToverifyLinkonlyfunctionfromF3Screen.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "7d0805d3-c0b6-4069-a980-ac775c6f1f53",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_18800_To verify Link & Merge function from F3 Screen.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "947355a1-5ab6-4097-8835-1d7de80e3b21",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_20443_To verify add new name functions from F2 screen for J Type name.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "02e2db03-853f-4a8e-9cb2-08e9d6e2c1c8",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_20445_To verify add new name functions from F2 screen for B Type name.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b0fc22ee-1f6d-44c4-a513-6cec117e9573",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_20447_To verify add new name functions from F2 screen for O Type name.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d6df394d-52e0-4ff2-9cb9-c023be7528ee",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_26794_SystemshoulddisplaytheCADrefaddressforthereportedlocation.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8b588bf8-a097-4a8f-8528-dde85df42bdb",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_26796_Systemshoulddisplaythereportedlocation.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "83870486-5320-4e5c-adc3-970a9436a49f",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestCaseID_26800_OncecallcreatedsystemshouldupdateCallStackeddateandtime.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "8a57479b-7820-4724-892d-ed79361c5fb5",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestcaseID_26804_SystemshoulddisplaythecommentsaddedduringthecreationofIncident.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "b256b642-183c-499e-9e56-8198517d22b8",
+        "testCaseType": "TestCase",
+        "fileName": "F2 Screen\\TestcaseID_26805_SystemshoulddisplaytheRA#configuredfortheeventlocation.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "42ece3a0-eaf1-4ff3-bf46-e2e322bbfbdd",
+        "testCaseType": "TestCase",
+        "fileName": "color_validation.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c993d34c-7c3b-4224-b5ed-4414a11b8e94",
+        "testCaseType": "TestCase",
+        "fileName": "F2_Screen_TestCase.xaml"
+      }
+    ],
+    "modernBehavior": false,
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

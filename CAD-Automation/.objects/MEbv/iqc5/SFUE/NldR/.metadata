@@ -1,0 +1,16 @@
+﻿{
+  "Name": "uIRALabel",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "NldRh7wL20K0q6AlctKIkA",
+  "Reference": "THDf1UhB6U6EKgZN7HF2zw/NldRh7wL20K0q6AlctKIkA",
+  "ParentRef": "THDf1UhB6U6EKgZN7HF2zw/SFUEBDwmQUCdd2iuk-Z8sw",
+  "Created": "2024-05-13T09:30:19.3722837Z",
+  "Updated": "2024-05-13T13:20:31.1638282Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

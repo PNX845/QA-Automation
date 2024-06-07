@@ -1,0 +1,16 @@
+﻿{
+  "Id": "7Eu2Y2dhF06Z_M3xv9meFQ",
+  "Reference": "THDf1UhB6U6EKgZN7HF2zw/7Eu2Y2dhF06Z_M3xv9meFQ",
+  "ParentRef": "THDf1UhB6U6EKgZN7HF2zw/7Plt2J_RrUa9VElsuQozwA",
+  "Name": "uIAddButton",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2024-01-18T14:18:51.8657367Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2024-01-18T14:19:01.7795779Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

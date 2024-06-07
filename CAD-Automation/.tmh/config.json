@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/f69d779d-6fdb-499b-a6e8-0e0d05081188/defaulttenant/testmanager_/",
+  "defaultProject": {
+    "id": "e0a2e1af-6037-0000-c9d9-0b46d85bd5f7",
+    "name": "CAD Jira Testing",
+    "key": "CAD"
+  }
+}

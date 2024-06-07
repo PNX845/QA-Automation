@@ -1,0 +1,16 @@
+﻿{
+  "Id": "MYs6IBwKckat_g-_3FcBGg",
+  "Reference": "THDf1UhB6U6EKgZN7HF2zw/MYs6IBwKckat_g-_3FcBGg",
+  "ParentRef": "THDf1UhB6U6EKgZN7HF2zw/4dUL2P5akESqqPvH9ncmSw",
+  "Name": "uISOPAttachmentTab",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2024-01-17T07:26:02.6925597Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2024-01-17T07:26:11.0569136Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
